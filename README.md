@@ -8,6 +8,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+Examples
+
 ## Deployment
+
+Orice server sau local
 
 ## How to Contribute
